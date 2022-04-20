@@ -1,0 +1,25 @@
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    color: brown;
+
+}
+.nav a{
+    
+    padding: 40px 20px ;
+
+}
+.nombre{
+    margin-right:60% ;
+}
+.nav a:hover{
+    color: bisque;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
