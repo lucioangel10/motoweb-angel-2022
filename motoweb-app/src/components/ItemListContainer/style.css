@@ -1,0 +1,25 @@
+.itemListContainer{
+    height: 800px;
+    background-color: bisque;
+    margin: 0px 1%;
+}
+h2{
+    margin: 5px;
+}
+.listContainer{
+    height: 725px;
+    margin: 0px 2% ;
+    background-color: beige;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+.itemContainer{
+    width: 90%;
+    height: 325px;
+    background-color: black;
+    margin: auto 0px auto 5%;
+}
+h3{
+    margin: auto;
+}

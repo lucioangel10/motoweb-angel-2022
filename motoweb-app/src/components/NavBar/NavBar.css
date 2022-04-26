@@ -8,7 +8,7 @@
     color: brown;
 
 }
-.nav a{
+.nav .aTexto{
     
     padding: 40px 20px ;
 
@@ -16,10 +16,10 @@
 .nombre{
     margin-right:60% ;
 }
-.nav a:hover{
+.nav .aTexto:hover{
     color: bisque;
 }
-a{
+.aTexto{
     text-decoration: none;
     color: brown;
 }
